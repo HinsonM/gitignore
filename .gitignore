@@ -1,0 +1,15 @@
+# user-defined tmp file
+*.bak
+
+# editor specific tmp file
+*.swp
+
+# logs
+logs/
+*.log
+tmp/
+
+*~
+*.sql
+.vscode/
+
